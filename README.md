@@ -19,7 +19,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,git,github,mysql,vscode,idea&theme=light&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,git,github,mysql,vscode&theme=light&perline=6" />
   </a>
 <br><br>
 
@@ -79,13 +79,11 @@
 <br>
 
 <div align="center">
-  
-  <a href="LINK_DO_TWOJEGO_LINKEDINA" target="_blank">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=7000FF" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/natalia-kalista-23589b37b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-7000FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
   <br><br>
 
   <sub>Thanks for visiting! Let's connect and talk data. 💜</sub>
-
 </div>
