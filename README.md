@@ -36,7 +36,7 @@
   <br><br>
 
   **Tools & Environment** <br>
-  `Jupyter Notebook` • `Git` • `VS Code` • `PyCharm` • `Azure`
+  `Jupyter Notebook` • `Git` • `VS Code` • `PyCharm` 
 
 </div>
   <br><br>
