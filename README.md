@@ -26,7 +26,7 @@
 <div align="center">
 
   **Languages** <br>
-  `Python` • `SQL(MySQL)` • `DAX`
+  `Python` • `SQL` • `DAX`
   
   <br><br>
 
